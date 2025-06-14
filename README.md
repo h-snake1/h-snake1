@@ -1,6 +1,6 @@
 <!-- Banner Image (Data Science Theme) -->
 <p align="center">
-  <img src="[https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1200&q=80](https://www.google.com/url?sa=i&url=https%3A%2F%2Fboingboing.net%2F2020%2F01%2F27%2Fgroundbreaking-1979-visualizat.html&psig=AOvVaw1vztJNdTKMKBYwJUzEYdck&ust=1749946878644000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiclbPS740DFQAAAAAdAAAAABAE)" alt="Data Banner" width="100%" />
+  <img src="(https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1200&q=80)" alt="Data Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Ekansh Khanulia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"/></h1>
